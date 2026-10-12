@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "001",
+    "name": "Aamon",
+    "sounds": {
+      "easy": [
+        "sounds/001%20-%20Aamon/Aamon-Easy-1.ogg",
+        "sounds/001%20-%20Aamon/Aamon-Easy-2.ogg"
+      ],
+      "mid": [
+        "sounds/001%20-%20Aamon/Aamon-Mid-1.ogg",
+        "sounds/001%20-%20Aamon/Aamon-Mid-2.ogg"
+      ],
+      "hard": [
+        "sounds/001%20-%20Aamon/Aamon-Hard-1.ogg",
+        "sounds/001%20-%20Aamon/Aamon-Hard-2.ogg"
+      ]
+    }
+  },
+  {
+    "id": "002",
+    "name": "Akai",
+    "sounds": {
+      "easy": [
+        "sounds/002%20-%20Akai/Akai-Easy-1.ogg",
+        "sounds/002%20-%20Akai/Akai-Easy-2.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "003",
+    "name": "Aldous",
+    "sounds": {
+      "easy": [
+        "sounds/003%20-%20Aldous/Aldous-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "004",
+    "name": "Alice",
+    "sounds": {
+      "easy": [
+        "sounds/004%20-%20Alice/Alice-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "005",
+    "name": "Alpha",
+    "sounds": {
+      "easy": [
+        "sounds/005%20-%20Alpha/Alpha-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "006",
+    "name": "Alucard",
+    "sounds": {
+      "easy": [
+        "sounds/006%20-%20Alucard/Alucard-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "007",
+    "name": "Angela",
+    "sounds": {
+      "easy": [
+        "sounds/007%20-%20Angela/Angela-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "008",
+    "name": "Argus",
+    "sounds": {
+      "easy": [
+        "sounds/008%20-%20Argus/Argus-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "009",
+    "name": "Arlott",
+    "sounds": {
+      "easy": [
+        "sounds/009%20-%20Arlott/Arlott-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "010",
+    "name": "Atlas",
+    "sounds": {
+      "easy": [
+        "sounds/010%20-%20Atlas/Atlas-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "011",
+    "name": "Aulus",
+    "sounds": {
+      "easy": [
+        "sounds/011%20-%20Aulus/Aulus-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "012",
+    "name": "Aurora",
+    "sounds": {
+      "easy": [
+        "sounds/012%20-%20Aurora/Aurora-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "013",
+    "name": "Badang",
+    "sounds": {
+      "easy": [
+        "sounds/013%20-%20Badang/Badang-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "014",
+    "name": "Balmond",
+    "sounds": {
+      "easy": [
+        "sounds/014%20-%20Balmond/Balmond-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "015",
+    "name": "Bane",
+    "sounds": {
+      "easy": [
+        "sounds/015%20-%20Bane/Bane-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "016",
+    "name": "Barats",
+    "sounds": {
+      "easy": [
+        "sounds/016%20-%20Barats/Barats-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "017",
+    "name": "Baxia",
+    "sounds": {
+      "easy": [
+        "sounds/017%20-%20Baxia/Baxia-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "018",
+    "name": "Beatrix",
+    "sounds": {
+      "easy": [
+        "sounds/018%20-%20Beatrix/Beatrix-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "019",
+    "name": "Belerick",
+    "sounds": {
+      "easy": [
+        "sounds/019%20-%20Belerick/Belerick-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "020",
+    "name": "Benedetta",
+    "sounds": {
+      "easy": [
+        "sounds/020%20-%20Benedetta/Benedetta-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "021",
+    "name": "Brody",
+    "sounds": {
+      "easy": [
+        "sounds/021%20-%20Brody/Brody-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "022",
+    "name": "Bruno",
+    "sounds": {
+      "easy": [
+        "sounds/022%20-%20Bruno/Bruno-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "023",
+    "name": "Carmilla",
+    "sounds": {
+      "easy": [
+        "sounds/023%20-%20Carmilla/Carmilla-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "024",
+    "name": "Cecilion",
+    "sounds": {
+      "easy": [
+        "sounds/024%20-%20Cecilion/Cecilion-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "025",
+    "name": "Chang'e",
+    "sounds": {
+      "easy": [
+        "sounds/025%20-%20Chang'e/Chang'e-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "026",
+    "name": "Chip",
+    "sounds": {
+      "easy": [
+        "sounds/026%20-%20Chip/Chip-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "027",
+    "name": "Chou",
+    "sounds": {
+      "easy": [
+        "sounds/027%20-%20Chou/Chou-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "028",
+    "name": "Cici",
+    "sounds": {
+      "easy": [
+        "sounds/028%20-%20Cici/Cici-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "029",
+    "name": "Claude",
+    "sounds": {
+      "easy": [
+        "sounds/029%20-%20Claude/Claude-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "030",
+    "name": "Clint",
+    "sounds": {
+      "easy": [
+        "sounds/030%20-%20Clint/Clint-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "031",
+    "name": "Cyclops",
+    "sounds": {
+      "easy": [
+        "sounds/031%20-%20Cyclops/Cyclops-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "032",
+    "name": "Diggie",
+    "sounds": {
+      "easy": [
+        "sounds/032%20-%20Diggie/Diggie-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "034",
+    "name": "Dyrroth",
+    "sounds": {
+      "easy": [
+        "sounds/034%20-%20Dyrroth/Dyrroth-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "035",
+    "name": "Edith",
+    "sounds": {
+      "easy": [
+        "sounds/035%20-%20Edith/Edith-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "036",
+    "name": "Esmeralda",
+    "sounds": {
+      "easy": [
+        "sounds/036%20-%20Esmeralda/Esmeralda-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "037",
+    "name": "Estes",
+    "sounds": {
+      "easy": [
+        "sounds/037%20-%20Estes/Estes-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "038",
+    "name": "Eudora",
+    "sounds": {
+      "easy": [
+        "sounds/038%20-%20Eudora/Eudora-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "039",
+    "name": "Fanny",
+    "sounds": {
+      "easy": [
+        "sounds/039%20-%20Fanny/Fanny-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "040",
+    "name": "Faramis",
+    "sounds": {
+      "easy": [
+        "sounds/040%20-%20Faramis/Faramis-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "041",
+    "name": "Floryn",
+    "sounds": {
+      "easy": [
+        "sounds/041%20-%20Floryn/Floryn-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "042",
+    "name": "Franco",
+    "sounds": {
+      "easy": [
+        "sounds/042%20-%20Franco/Franco-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "043",
+    "name": "Fredrinn",
+    "sounds": {
+      "easy": [
+        "sounds/043%20-%20Fredrinn/Fredrinn-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "044",
+    "name": "Freya",
+    "sounds": {
+      "easy": [
+        "sounds/044%20-%20Freya/Freya-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "045",
+    "name": "Gatotkaca",
+    "sounds": {
+      "easy": [
+        "sounds/045%20-%20Gatotkaca/Gatotkaca-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "046",
+    "name": "Gloo",
+    "sounds": {
+      "easy": [
+        "sounds/046%20-%20Gloo/Gloo-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "047",
+    "name": "Gord",
+    "sounds": {
+      "easy": [
+        "sounds/047%20-%20Gord/Gord-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "048",
+    "name": "Granger",
+    "sounds": {
+      "easy": [
+        "sounds/048%20-%20Granger/Granger-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "049",
+    "name": "Grock",
+    "sounds": {
+      "easy": [
+        "sounds/049%20-%20Grock/Grock-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "050",
+    "name": "Guinevere",
+    "sounds": {
+      "easy": [
+        "sounds/050%20-%20Guinevere/Guinevere-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "051",
+    "name": "Gusion",
+    "sounds": {
+      "easy": [
+        "sounds/051%20-%20Gusion/Gusion-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "052",
+    "name": "Hanabi",
+    "sounds": {
+      "easy": [
+        "sounds/052%20-%20Hanabi/Hanabi-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "053",
+    "name": "Hanzo",
+    "sounds": {
+      "easy": [
+        "sounds/053%20-%20Hanzo/Hanzo-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "054",
+    "name": "Harith",
+    "sounds": {
+      "easy": [
+        "sounds/054%20-%20Harith/Harith-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "055",
+    "name": "Harley",
+    "sounds": {
+      "easy": [
+        "sounds/055%20-%20Harley/Harley-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "056",
+    "name": "Hayabusa",
+    "sounds": {
+      "easy": [
+        "sounds/056%20-%20Hayabusa/Hayabusa-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "057",
+    "name": "Helcurt",
+    "sounds": {
+      "easy": [
+        "sounds/057%20-%20Helcurt/Helcurt-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "058",
+    "name": "Hilda",
+    "sounds": {
+      "easy": [
+        "sounds/058%20-%20Hilda/Hilda-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "060",
+    "name": "Hylos",
+    "sounds": {
+      "easy": [
+        "sounds/060%20-%20Hylos/Hylos-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "061",
+    "name": "Irithel",
+    "sounds": {
+      "easy": [
+        "sounds/061%20-%20Irithel/Irithel-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "062",
+    "name": "Ixia",
+    "sounds": {
+      "easy": [
+        "sounds/062%20-%20Ixia/Ixia-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "063",
+    "name": "Jawhead",
+    "sounds": {
+      "easy": [
+        "sounds/063%20-%20Jawhead/Jawhead-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "064",
+    "name": "Johnson",
+    "sounds": {
+      "easy": [
+        "sounds/064%20-%20Johnson/Johnson-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "065",
+    "name": "Joy",
+    "sounds": {
+      "easy": [
+        "sounds/065%20-%20Joy/Joy-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "066",
+    "name": "Julian",
+    "sounds": {
+      "easy": [
+        "sounds/066%20-%20Julian/Julian-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "067",
+    "name": "Kadita",
+    "sounds": {
+      "easy": [
+        "sounds/067%20-%20Kadita/Kadita-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "068",
+    "name": "Kagura",
+    "sounds": {
+      "easy": [
+        "sounds/068%20-%20Kagura/Kagura-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "069",
+    "name": "Kaja",
+    "sounds": {
+      "easy": [
+        "sounds/069%20-%20Kaja/Kaja-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "070",
+    "name": "Kalea",
+    "sounds": {
+      "easy": [
+        "sounds/070%20-%20Kalea/Kalea-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "071",
+    "name": "Karina",
+    "sounds": {
+      "easy": [
+        "sounds/071%20-%20Karina/Karina-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "072",
+    "name": "Karrie",
+    "sounds": {
+      "easy": [
+        "sounds/072%20-%20Karrie/Karrie-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "073",
+    "name": "Khaleed",
+    "sounds": {
+      "easy": [
+        "sounds/073%20-%20Khaleed/Khaleed-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "074",
+    "name": "Khufra",
+    "sounds": {
+      "easy": [
+        "sounds/074%20-%20Khufra/Khufra-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "075",
+    "name": "Kimmy",
+    "sounds": {
+      "easy": [
+        "sounds/075%20-%20Kimmy/Kimmy-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "076",
+    "name": "Lancelot",
+    "sounds": {
+      "easy": [
+        "sounds/076%20-%20Lancelot/Lancelot-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "077",
+    "name": "Lapu-Lapu",
+    "sounds": {
+      "easy": [
+        "sounds/077%20-%20Lapu-Lapu/Lapu-Lapu-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "078",
+    "name": "Layla",
+    "sounds": {
+      "easy": [
+        "sounds/078%20-%20Layla/Layla-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "079",
+    "name": "Leomord",
+    "sounds": {
+      "easy": [
+        "sounds/079%20-%20Leomord/Leomord-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "080",
+    "name": "Lesley",
+    "sounds": {
+      "easy": [
+        "sounds/080%20-%20Lesley/Lesley-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "081",
+    "name": "Ling",
+    "sounds": {
+      "easy": [
+        "sounds/081%20-%20Ling/Ling-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "082",
+    "name": "Lolita",
+    "sounds": {
+      "easy": [
+        "sounds/082%20-%20Lolita/Lolita-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "083",
+    "name": "Lukas",
+    "sounds": {
+      "easy": [
+        "sounds/083%20-%20Lukas/Lukas-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "084",
+    "name": "Lunox",
+    "sounds": {
+      "easy": [
+        "sounds/084%20-%20Lunox/Lunox-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "085",
+    "name": "Luo Yi",
+    "sounds": {
+      "easy": [
+        "sounds/085%20-%20Luo%20Yi/Luo%20Yi-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "086",
+    "name": "Lylia",
+    "sounds": {
+      "easy": [
+        "sounds/086%20-%20Lylia/Lylia-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "087",
+    "name": "Marcel",
+    "sounds": {
+      "easy": [
+        "sounds/087%20-%20Marcel/Marcel-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "088",
+    "name": "Martis",
+    "sounds": {
+      "easy": [
+        "sounds/088%20-%20Martis/Martis-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "089",
+    "name": "Masha",
+    "sounds": {
+      "easy": [
+        "sounds/089%20-%20Masha/Masha-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "090",
+    "name": "Mathilda",
+    "sounds": {
+      "easy": [
+        "sounds/090%20-%20Mathilda/Mathilda-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "091",
+    "name": "Melissa",
+    "sounds": {
+      "easy": [
+        "sounds/091%20-%20Melissa/Melissa-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "092",
+    "name": "Minotaur",
+    "sounds": {
+      "easy": [
+        "sounds/092%20-%20Minotaur/Minotaur-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "093",
+    "name": "Minsitthar",
+    "sounds": {
+      "easy": [
+        "sounds/093%20-%20Minsitthar/Minsitthar-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "094",
+    "name": "Miya",
+    "sounds": {
+      "easy": [
+        "sounds/094%20-%20Miya/Miya-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "095",
+    "name": "Moskov",
+    "sounds": {
+      "easy": [
+        "sounds/095%20-%20Moskov/Moskov-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "096",
+    "name": "Nana",
+    "sounds": {
+      "easy": [
+        "sounds/096%20-%20Nana/Nana-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "097",
+    "name": "Natalia",
+    "sounds": {
+      "easy": [
+        "sounds/097%20-%20Natalia/Natalia-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "098",
+    "name": "Natan",
+    "sounds": {
+      "easy": [
+        "sounds/098%20-%20Natan/Natan-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "099",
+    "name": "Nolan",
+    "sounds": {
+      "easy": [
+        "sounds/099%20-%20Nolan/Nolan-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "100",
+    "name": "Novaria",
+    "sounds": {
+      "easy": [
+        "sounds/100%20-%20Novaria/Novaria-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "101",
+    "name": "Obsidia",
+    "sounds": {
+      "easy": [
+        "sounds/101%20-%20Obsidia/Obsidia-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "102",
+    "name": "Odette",
+    "sounds": {
+      "easy": [
+        "sounds/102%20-%20Odette/Odette-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "103",
+    "name": "Paquito",
+    "sounds": {
+      "easy": [
+        "sounds/103%20-%20Paquito/Paquito-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "104",
+    "name": "Pharsa",
+    "sounds": {
+      "easy": [
+        "sounds/104%20-%20Pharsa/Pharsa-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "105",
+    "name": "Phoveus",
+    "sounds": {
+      "easy": [
+        "sounds/105%20-%20Phoveus/Phoveus-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "106",
+    "name": "Popol and Kupa",
+    "sounds": {
+      "easy": [
+        "sounds/106%20-%20Popol%20and%20Kupa/Popol%20and%20Kupa-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "107",
+    "name": "Rafaela",
+    "sounds": {
+      "easy": [
+        "sounds/107%20-%20Rafaela/Rafaela-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "108",
+    "name": "Roger",
+    "sounds": {
+      "easy": [
+        "sounds/108%20-%20Roger/Roger-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "109",
+    "name": "Ruby",
+    "sounds": {
+      "easy": [
+        "sounds/109%20-%20Ruby/Ruby-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "110",
+    "name": "Saber",
+    "sounds": {
+      "easy": [
+        "sounds/110%20-%20Saber/Saber-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "111",
+    "name": "Selena",
+    "sounds": {
+      "easy": [
+        "sounds/111%20-%20Selena/Selena-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "112",
+    "name": "Silvanna",
+    "sounds": {
+      "easy": [
+        "sounds/112%20-%20Silvanna/Silvanna-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "114",
+    "name": "Sun",
+    "sounds": {
+      "easy": [
+        "sounds/114%20-%20Sun/Sun-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "115",
+    "name": "Suyou",
+    "sounds": {
+      "easy": [
+        "sounds/115%20-%20Suyou/Suyou-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "116",
+    "name": "Terizla",
+    "sounds": {
+      "easy": [
+        "sounds/116%20-%20Terizla/Terizla-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "117",
+    "name": "Thamuz",
+    "sounds": {
+      "easy": [
+        "sounds/117%20-%20Thamuz/Thamuz-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "118",
+    "name": "Tigreal",
+    "sounds": {
+      "easy": [
+        "sounds/118%20-%20Tigreal/Tigreal-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "119",
+    "name": "Uranus",
+    "sounds": {
+      "easy": [
+        "sounds/119%20-%20Uranus/Uranus-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "120",
+    "name": "Vale",
+    "sounds": {
+      "easy": [
+        "sounds/120%20-%20Vale/Vale-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "121",
+    "name": "Valentina",
+    "sounds": {
+      "easy": [
+        "sounds/121%20-%20Valentina/Valentina-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "122",
+    "name": "Valir",
+    "sounds": {
+      "easy": [
+        "sounds/122%20-%20Valir/Valir-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "123",
+    "name": "Vexana",
+    "sounds": {
+      "easy": [
+        "sounds/123%20-%20Vexana/Vexana-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "124",
+    "name": "Wanwan",
+    "sounds": {
+      "easy": [
+        "sounds/124%20-%20Wanwan/Wanwan-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "125",
+    "name": "X.Borg",
+    "sounds": {
+      "easy": [
+        "sounds/125%20-%20X.Borg/X.Borg-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "126",
+    "name": "Xavier",
+    "sounds": {
+      "easy": [
+        "sounds/126%20-%20Xavier/Xavier-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "127",
+    "name": "Yi Sun-shin",
+    "sounds": {
+      "easy": [
+        "sounds/127%20-%20Yi%20Sun-shin/Yi%20Sun-shin-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "128",
+    "name": "Yin",
+    "sounds": {
+      "easy": [
+        "sounds/128%20-%20Yin/Yin-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "129",
+    "name": "Yu Zhong",
+    "sounds": {
+      "easy": [
+        "sounds/129%20-%20Yu%20Zhong/Yu%20Zhong-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "130",
+    "name": "Yve",
+    "sounds": {
+      "easy": [
+        "sounds/130%20-%20Yve/Yve-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "131",
+    "name": "Zetian",
+    "sounds": {
+      "easy": [
+        "sounds/131%20-%20Zetian/Zetian-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "132",
+    "name": "Zhask",
+    "sounds": {
+      "easy": [
+        "sounds/132%20-%20Zhask/Zhask-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "133",
+    "name": "Zhuxin",
+    "sounds": {
+      "easy": [
+        "sounds/133%20-%20Zhuxin/Zhuxin-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  },
+  {
+    "id": "134",
+    "name": "Zilong",
+    "sounds": {
+      "easy": [
+        "sounds/134%20-%20Zilong/Zilong-Easy-1.ogg"
+      ],
+      "mid": [],
+      "hard": []
+    }
+  }
+]

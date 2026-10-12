@@ -1,0 +1,657 @@
+{
+  "100": {
+    "name": "Novaria",
+    "src": "heroes/100.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Novaria.jpg"
+  },
+  "101": {
+    "name": "Obsidia",
+    "src": "heroes/101.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Obsidia.jpg"
+  },
+  "102": {
+    "name": "Odette",
+    "src": "heroes/102.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Odette.jpg"
+  },
+  "103": {
+    "name": "Paquito",
+    "src": "heroes/103.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Paquito.jpg"
+  },
+  "104": {
+    "name": "Pharsa",
+    "src": "heroes/104.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Pharsa.jpg"
+  },
+  "105": {
+    "name": "Phoveus",
+    "src": "heroes/105.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Phoveus.jpg"
+  },
+  "106": {
+    "name": "Popol and Kupa",
+    "src": "heroes/106.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Popol_and_Kupa.jpg"
+  },
+  "107": {
+    "name": "Rafaela",
+    "src": "heroes/107.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Rafaela.jpg"
+  },
+  "108": {
+    "name": "Roger",
+    "src": "heroes/108.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Roger.jpg"
+  },
+  "109": {
+    "name": "Ruby",
+    "src": "heroes/109.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Ruby.jpg"
+  },
+  "110": {
+    "name": "Saber",
+    "src": "heroes/110.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Saber.jpg"
+  },
+  "111": {
+    "name": "Selena",
+    "src": "heroes/111.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Selena.jpg"
+  },
+  "112": {
+    "name": "Silvanna",
+    "src": "heroes/112.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Silvanna.jpg"
+  },
+  "114": {
+    "name": "Sun",
+    "src": "heroes/114.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Sun.jpg"
+  },
+  "115": {
+    "name": "Suyou",
+    "src": "heroes/115.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Suyou.webp"
+  },
+  "116": {
+    "name": "Terizla",
+    "src": "heroes/116.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Terizla.jpg"
+  },
+  "117": {
+    "name": "Thamuz",
+    "src": "heroes/117.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Thamuz.jpg"
+  },
+  "118": {
+    "name": "Tigreal",
+    "src": "heroes/118.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Tigreal.jpg"
+  },
+  "119": {
+    "name": "Uranus",
+    "src": "heroes/119.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Uranus.jpg"
+  },
+  "120": {
+    "name": "Vale",
+    "src": "heroes/120.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Vale.jpg"
+  },
+  "121": {
+    "name": "Valentina",
+    "src": "heroes/121.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Valentina.jpg"
+  },
+  "122": {
+    "name": "Valir",
+    "src": "heroes/122.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Valir.jpg"
+  },
+  "123": {
+    "name": "Vexana",
+    "src": "heroes/123.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Vexana.jpg"
+  },
+  "124": {
+    "name": "Wanwan",
+    "src": "heroes/124.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Wanwan.jpg"
+  },
+  "125": {
+    "name": "X.Borg",
+    "src": "heroes/125.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/X.Borg.jpg"
+  },
+  "126": {
+    "name": "Xavier",
+    "src": "heroes/126.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Xavier.jpg"
+  },
+  "127": {
+    "name": "Yi Sun-shin",
+    "src": "heroes/127.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Yi_Sun-Shin.jpg"
+  },
+  "128": {
+    "name": "Yin",
+    "src": "heroes/128.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Yin.jpg"
+  },
+  "129": {
+    "name": "Yu Zhong",
+    "src": "heroes/129.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Yu_Zhong.jpg"
+  },
+  "130": {
+    "name": "Yve",
+    "src": "heroes/130.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Yve.jpg"
+  },
+  "131": {
+    "name": "Zetian",
+    "src": "heroes/131.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Zetian.jpg"
+  },
+  "132": {
+    "name": "Zhask",
+    "src": "heroes/132.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Zhask.jpg"
+  },
+  "133": {
+    "name": "Zhuxin",
+    "src": "heroes/133.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Zhuxin.webp"
+  },
+  "134": {
+    "name": "Zilong",
+    "src": "heroes/134.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Zilong.jpg"
+  },
+  "001": {
+    "name": "Aamon",
+    "src": "heroes/001.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Aamon.jpg"
+  },
+  "002": {
+    "name": "Akai",
+    "src": "heroes/002.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Akai.jpg"
+  },
+  "003": {
+    "name": "Aldous",
+    "src": "heroes/003.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Aldous.jpg"
+  },
+  "004": {
+    "name": "Alice",
+    "src": "heroes/004.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Alice.jpg"
+  },
+  "005": {
+    "name": "Alpha",
+    "src": "heroes/005.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Alpha.jpg"
+  },
+  "006": {
+    "name": "Alucard",
+    "src": "heroes/006.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Alucard.jpg"
+  },
+  "007": {
+    "name": "Angela",
+    "src": "heroes/007.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Angela.jpg"
+  },
+  "008": {
+    "name": "Argus",
+    "src": "heroes/008.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Argus.jpg"
+  },
+  "009": {
+    "name": "Arlott",
+    "src": "heroes/009.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Arlott.webp"
+  },
+  "010": {
+    "name": "Atlas",
+    "src": "heroes/010.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Atlas.jpg"
+  },
+  "011": {
+    "name": "Aulus",
+    "src": "heroes/011.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Aulus.jpg"
+  },
+  "012": {
+    "name": "Aurora",
+    "src": "heroes/012.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Aurora.jpg"
+  },
+  "013": {
+    "name": "Badang",
+    "src": "heroes/013.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Badang.jpg"
+  },
+  "014": {
+    "name": "Balmond",
+    "src": "heroes/014.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Balmond.jpg"
+  },
+  "015": {
+    "name": "Bane",
+    "src": "heroes/015.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Bane.jpg"
+  },
+  "016": {
+    "name": "Barats",
+    "src": "heroes/016.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Barats.jpg"
+  },
+  "017": {
+    "name": "Baxia",
+    "src": "heroes/017.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Baxia.jpg"
+  },
+  "018": {
+    "name": "Beatrix",
+    "src": "heroes/018.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Beatrix.jpg"
+  },
+  "019": {
+    "name": "Belerick",
+    "src": "heroes/019.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Belerick.jpg"
+  },
+  "020": {
+    "name": "Benedetta",
+    "src": "heroes/020.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Benedetta.jpg"
+  },
+  "021": {
+    "name": "Brody",
+    "src": "heroes/021.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Brody.jpg"
+  },
+  "022": {
+    "name": "Bruno",
+    "src": "heroes/022.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Bruno.jpg"
+  },
+  "023": {
+    "name": "Carmilla",
+    "src": "heroes/023.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Carmilla.jpg"
+  },
+  "024": {
+    "name": "Cecilion",
+    "src": "heroes/024.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Cecillion.jpg"
+  },
+  "025": {
+    "name": "Chang'e",
+    "src": "heroes/025.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Chang'e.jpg"
+  },
+  "026": {
+    "name": "Chip",
+    "src": "heroes/026.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Chip.jpg"
+  },
+  "027": {
+    "name": "Chou",
+    "src": "heroes/027.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Chou.jpg"
+  },
+  "028": {
+    "name": "Cici",
+    "src": "heroes/028.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Cici.webp"
+  },
+  "029": {
+    "name": "Claude",
+    "src": "heroes/029.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Claude.jpg"
+  },
+  "030": {
+    "name": "Clint",
+    "src": "heroes/030.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Clint.jpg"
+  },
+  "031": {
+    "name": "Cyclops",
+    "src": "heroes/031.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Cyclops.jpg"
+  },
+  "032": {
+    "name": "Diggie",
+    "src": "heroes/032.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Diggie.jpg"
+  },
+  "034": {
+    "name": "Dyrroth",
+    "src": "heroes/034.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Dyrroth.jpg"
+  },
+  "035": {
+    "name": "Edith",
+    "src": "heroes/035.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Edith.jpg"
+  },
+  "036": {
+    "name": "Esmeralda",
+    "src": "heroes/036.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Esmeralda.jpg"
+  },
+  "037": {
+    "name": "Estes",
+    "src": "heroes/037.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Estes.jpg"
+  },
+  "038": {
+    "name": "Eudora",
+    "src": "heroes/038.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Eudora.jpg"
+  },
+  "039": {
+    "name": "Fanny",
+    "src": "heroes/039.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Fanny.jpg"
+  },
+  "040": {
+    "name": "Faramis",
+    "src": "heroes/040.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Faramis.jpg"
+  },
+  "041": {
+    "name": "Floryn",
+    "src": "heroes/041.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Floryn.jpg"
+  },
+  "042": {
+    "name": "Franco",
+    "src": "heroes/042.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Franco.jpg"
+  },
+  "043": {
+    "name": "Fredrinn",
+    "src": "heroes/043.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Fredrinn.jpg"
+  },
+  "044": {
+    "name": "Freya",
+    "src": "heroes/044.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Freya.jpg"
+  },
+  "045": {
+    "name": "Gatotkaca",
+    "src": "heroes/045.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Gatotkaca.jpg"
+  },
+  "046": {
+    "name": "Gloo",
+    "src": "heroes/046.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Gloo.jpg"
+  },
+  "047": {
+    "name": "Gord",
+    "src": "heroes/047.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Gord.jpg"
+  },
+  "048": {
+    "name": "Granger",
+    "src": "heroes/048.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Granger.jpg"
+  },
+  "049": {
+    "name": "Grock",
+    "src": "heroes/049.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Grock.jpg"
+  },
+  "050": {
+    "name": "Guinevere",
+    "src": "heroes/050.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Guinevere.jpg"
+  },
+  "051": {
+    "name": "Gusion",
+    "src": "heroes/051.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Gusion.jpg"
+  },
+  "052": {
+    "name": "Hanabi",
+    "src": "heroes/052.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Hanabi.jpg"
+  },
+  "053": {
+    "name": "Hanzo",
+    "src": "heroes/053.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Hanzo.jpg"
+  },
+  "054": {
+    "name": "Harith",
+    "src": "heroes/054.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Harith.jpg"
+  },
+  "055": {
+    "name": "Harley",
+    "src": "heroes/055.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Harley.jpg"
+  },
+  "056": {
+    "name": "Hayabusa",
+    "src": "heroes/056.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Hayabusa.jpg"
+  },
+  "057": {
+    "name": "Helcurt",
+    "src": "heroes/057.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Helcurt.jpg"
+  },
+  "058": {
+    "name": "Hilda",
+    "src": "heroes/058.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Hilda.jpg"
+  },
+  "060": {
+    "name": "Hylos",
+    "src": "heroes/060.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Hylos.jpg"
+  },
+  "061": {
+    "name": "Irithel",
+    "src": "heroes/061.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Irithel.jpg"
+  },
+  "062": {
+    "name": "Ixia",
+    "src": "heroes/062.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Ixia.webp"
+  },
+  "063": {
+    "name": "Jawhead",
+    "src": "heroes/063.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Jawhead.jpg"
+  },
+  "064": {
+    "name": "Johnson",
+    "src": "heroes/064.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Johnson.jpg"
+  },
+  "065": {
+    "name": "Joy",
+    "src": "heroes/065.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Joy.jpg"
+  },
+  "066": {
+    "name": "Julian",
+    "src": "heroes/066.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Julian.jpg"
+  },
+  "067": {
+    "name": "Kadita",
+    "src": "heroes/067.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Kadita.jpg"
+  },
+  "068": {
+    "name": "Kagura",
+    "src": "heroes/068.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Kagura.jpg"
+  },
+  "069": {
+    "name": "Kaja",
+    "src": "heroes/069.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Kaja.jpg"
+  },
+  "070": {
+    "name": "Kalea",
+    "src": "heroes/070.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Kalea.png"
+  },
+  "071": {
+    "name": "Karina",
+    "src": "heroes/071.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Karina.jpg"
+  },
+  "072": {
+    "name": "Karrie",
+    "src": "heroes/072.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Karrie.jpg"
+  },
+  "073": {
+    "name": "Khaleed",
+    "src": "heroes/073.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Khaleed.jpg"
+  },
+  "074": {
+    "name": "Khufra",
+    "src": "heroes/074.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Khufra.jpg"
+  },
+  "075": {
+    "name": "Kimmy",
+    "src": "heroes/075.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Kimmy.jpg"
+  },
+  "076": {
+    "name": "Lancelot",
+    "src": "heroes/076.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lancelot.jpg"
+  },
+  "077": {
+    "name": "Lapu-Lapu",
+    "src": "heroes/077.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lapu-Lapu.jpg"
+  },
+  "078": {
+    "name": "Layla",
+    "src": "heroes/078.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Layla.jpg"
+  },
+  "079": {
+    "name": "Leomord",
+    "src": "heroes/079.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Leomord.jpg"
+  },
+  "080": {
+    "name": "Lesley",
+    "src": "heroes/080.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lesley.jpg"
+  },
+  "081": {
+    "name": "Ling",
+    "src": "heroes/081.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Ling.jpg"
+  },
+  "082": {
+    "name": "Lolita",
+    "src": "heroes/082.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lolita.jpg"
+  },
+  "083": {
+    "name": "Lukas",
+    "src": "heroes/083.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lukas.webp"
+  },
+  "084": {
+    "name": "Lunox",
+    "src": "heroes/084.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lunox.jpg"
+  },
+  "085": {
+    "name": "Luo Yi",
+    "src": "heroes/085.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Luo_Yi.jpg"
+  },
+  "086": {
+    "name": "Lylia",
+    "src": "heroes/086.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Lylia.jpg"
+  },
+  "087": {
+    "name": "Marcel",
+    "src": "heroes/087.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Marcel.webp"
+  },
+  "088": {
+    "name": "Martis",
+    "src": "heroes/088.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Martis.jpg"
+  },
+  "089": {
+    "name": "Masha",
+    "src": "heroes/089.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Masha.jpg"
+  },
+  "090": {
+    "name": "Mathilda",
+    "src": "heroes/090.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Mathilda.jpg"
+  },
+  "091": {
+    "name": "Melissa",
+    "src": "heroes/091.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Melissa.jpg"
+  },
+  "092": {
+    "name": "Minotaur",
+    "src": "heroes/092.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Minotaur.jpg"
+  },
+  "093": {
+    "name": "Minsitthar",
+    "src": "heroes/093.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Minsitthar.jpg"
+  },
+  "094": {
+    "name": "Miya",
+    "src": "heroes/094.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Miya.jpg"
+  },
+  "095": {
+    "name": "Moskov",
+    "src": "heroes/095.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Moskov.jpg"
+  },
+  "096": {
+    "name": "Nana",
+    "src": "heroes/096.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Nana.jpg"
+  },
+  "097": {
+    "name": "Natalia",
+    "src": "heroes/097.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Natalia.jpg"
+  },
+  "098": {
+    "name": "Natan",
+    "src": "heroes/098.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Natan.jpg"
+  },
+  "099": {
+    "name": "Nolan",
+    "src": "heroes/099.jpg",
+    "sourceUrl": "https://ik.imagekit.io/nloe8dhf7w/mlbb/heroes/Nolan.webp"
+  }
+}

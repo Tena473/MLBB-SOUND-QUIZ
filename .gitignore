@@ -1,0 +1,8 @@
+node_modules/
+dist/
+# public/sounds/
+# src/generated/
+coverage/
+artifacts/
+*.local
+*.log
