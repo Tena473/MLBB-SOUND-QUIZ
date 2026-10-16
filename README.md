@@ -21,6 +21,25 @@ npm run preview  # Serve the production build locally
 
 The `predev`, `prebuild`, and `pretest` scripts prepare audio automatically. The app needs no API keys, database, accounts, or external backend. Refreshing the page resets the game. Fonts use Google Fonts when available, with local system-font fallbacks.
 
+## Deploy to GitHub Pages
+
+This game can run on GitHub Pages because the production output is entirely static, including the sounds and hero portraits.
+
+1. Open the repository's **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**.
+2. Push `.github/workflows/deploy-pages.yml` to `main`. If the file is already on `main`, open **Actions → Deploy game to GitHub Pages → Run workflow** instead.
+3. Wait for both the `build` and `deploy` jobs to finish successfully. The deployment job links to the published site. For this repository the default URL is `https://tena473.github.io/MLBB-SOUND-QUIZ/`.
+
+Every subsequent push to `main` tests the game, regenerates audio assets, builds with Node.js 24, and deploys `dist/`. No personal access token or repository secret is needed; the workflow uses GitHub's temporary deployment credentials. If GitHub asks for approval in the `github-pages` environment, approve that deployment in the Actions run.
+
+The workflow obtains the site's base path from GitHub Pages and passes it to Vite. Audio, portraits, and scripts therefore use the repository subpath correctly. Local builds and Vercel keep their existing relative paths. To check the Pages build locally:
+
+```sh
+npm run build -- --base /MLBB-SOUND-QUIZ/
+npm run preview -- --base /MLBB-SOUND-QUIZ/
+```
+
+Open `http://127.0.0.1:4173/MLBB-SOUND-QUIZ/`. Keep the trailing slash in the published URL. A `404` before the first successful deployment normally means Pages is not enabled yet or the workflow has not finished; check **Settings → Pages** and the Actions logs.
+
 ## How to play
 
 - Choose an available difficulty. Easy needs at least one hero; Mid and Hard each require ten **distinct heroes** with sound files at that level.
