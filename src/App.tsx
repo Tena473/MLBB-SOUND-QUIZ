@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import heroData from './generated/heroes.json';
 import AudioPlayer from './AudioPlayer';
 import HeroSearch from './HeroSearch';
@@ -113,6 +114,7 @@ export default function App() {
         ) : null}
       </main>
       <footer className="site-footer"><span>Made for the love of the game.</span><span>Unofficial fan quiz · Mobile Legends: Bang Bang</span></footer>
+      <SpeedInsights />
     </div>
   );
 }
